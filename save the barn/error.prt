@@ -1,0 +1,13 @@
+                        0268 Roosevelt Avenue HarPagosa Springs Rh54434RF0037.86      Contributor name is empty                                   
+Jackson Bell                                     North Haven    Mi83870DF6887.10      Address is empty                                            
+Justice James           3788 Primrose Lane Compto               Al32484IF1918.81      City is empty                                               
+Cason Reed              7070 Hickory Street CocoaNew Castle     Ma      F5050.42      Party is empty                                              
+Barrett Owen            6740 Country Club Drive SDecatur        Gu48019 F9818.88      Party is empty                                              
+Matthew Norris          0033 Shady Lane Van BurenHallandale BeacMi452811M0844.89      Party isn't a valid character                               
+Pierce Acosta           3452 Cambridge Court GreeHuntington BeacNe54432CM2785.35      Party isn't a valid character                               
+Skyler Austin           6626 Broad Street West MoKetchikan      Fl34614D 6957.23      Gender is empty                                             
+Ibrahim Nelson          0405 Franklin Avenue TuscClearwater     Mi11658DL2058.80      Gender isn't a valid character                              
+Frank Osborne           5684 Court Street Sun ValCortez         Ma39044DMA122.11      Contribution includes non-numeric characters                
+Gabriel Dennis          1874 Lilac Lane Auburn PRDarienDerby    Wi04957RM1111111      Contribution must be between .01 to 9999.99                 
+Peter Fields            4064 Lawrence Street TurlDixon           o34368IM4357.12      state has to be at least 2 spaces; no more , no less.       
+Gideon Jenkins          2541 Williams Street Tall2              Wy 7420RM9195.51      zip has to be at least 5 numbers.                           
